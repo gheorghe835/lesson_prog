@@ -7,7 +7,6 @@ E:\PROGRAMAREA\GIT\lesson_prog\task_1\obj\Debug\net8.0\task_1.GeneratedMSBuildEd
 E:\PROGRAMAREA\GIT\lesson_prog\task_1\obj\Debug\net8.0\task_1.AssemblyInfoInputs.cache
 E:\PROGRAMAREA\GIT\lesson_prog\task_1\obj\Debug\net8.0\task_1.AssemblyInfo.cs
 E:\PROGRAMAREA\GIT\lesson_prog\task_1\obj\Debug\net8.0\task_1.csproj.CoreCompileInputs.cache
-E:\PROGRAMAREA\GIT\lesson_prog\task_1\obj\Debug\net8.0\task_1.sourcelink.json
 E:\PROGRAMAREA\GIT\lesson_prog\task_1\obj\Debug\net8.0\task_1.dll
 E:\PROGRAMAREA\GIT\lesson_prog\task_1\obj\Debug\net8.0\refint\task_1.dll
 E:\PROGRAMAREA\GIT\lesson_prog\task_1\obj\Debug\net8.0\task_1.pdb
