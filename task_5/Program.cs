@@ -25,7 +25,11 @@ int i = 0;
 while( i <= N)
 {
     array1[i] = i ;
-    Console.WriteLine($" \n The number i :: {array1[i]}");
+    Console.WriteLine($"  The number i :: {array1[i]}");
+    if(array1[i] %2 == 0)
+    {
+        Console.WriteLine($" \n The number par :: {array1[i]}");
+    }
     i ++;
 }
 
